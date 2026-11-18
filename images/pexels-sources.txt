@@ -1,0 +1,21 @@
+Фото px-*.jpg и видео media/hero* — с Pexels (pexels.com/license): бесплатно, в том числе в коммерции, подпись автора не обязательна.
+
+px-pamukkale-pools.jpg	https://www.pexels.com/photo/23322370/
+px-pamukkale-pool.jpg	https://www.pexels.com/photo/31022951/
+px-pamukkale-terraces.jpg	https://www.pexels.com/photo/27829279/
+px-uchisar.jpg	https://www.pexels.com/photo/17373456/
+px-balloons-sunset.jpg	https://www.pexels.com/photo/30370450/
+px-fairy-chimneys.jpg	https://www.pexels.com/photo/38338547/
+px-rose-valley.jpg	https://www.pexels.com/photo/6068229/
+px-goreme-aerial.jpg	https://www.pexels.com/photo/8321242/
+px-kaleici-harbour.jpg	https://www.pexels.com/photo/6979377/
+px-hadrian-gate.jpg	https://www.pexels.com/photo/31749469/
+px-kaleici-street.jpg	https://www.pexels.com/photo/34706410/
+px-mevlana.jpg	https://www.pexels.com/photo/36229645/
+px-mevlana-tower.jpg	https://www.pexels.com/photo/35610703/
+px-konyaalti.jpg	https://www.pexels.com/photo/15417847/
+px-hierapolis-theatre.jpg	https://www.pexels.com/photo/37898017/
+px-hierapolis-street.jpg	https://www.pexels.com/photo/38739511/
+px-uchisar-sunset.jpg	https://www.pexels.com/photo/12686882/
+px-uchisar-night.jpg	https://www.pexels.com/photo/28901347/
+hero-balloons.mp4	https://www.pexels.com/video/34889372/
